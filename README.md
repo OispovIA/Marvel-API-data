@@ -1,7 +1,7 @@
 # Marvel Characters Data Loader
 
 <center>
-<img src='excalidraw.png' width=700>
+<img src='excalidraw.png'>
 </center>
 
 ## Project Description
